@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Casino</string>
+    <string name="title_home">Кости</string>
+    <string name="title_dashboard">Орел решка</string>
+</resources>
